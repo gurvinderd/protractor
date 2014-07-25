@@ -1,0 +1,38 @@
+{
+  "name": "ProtractorFramework",
+  "version": "0.0.1",
+  "description": "Protractor Framework for UI Automation",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-protractor-runner": "^1.0.0",
+    "grunt-shell-spawn": "^0.3.0",
+    "protractor": "^1.0.0-rc1",
+    "protractor-html-screenshot-reporter": "^0.0.10",
+    "protractor-screenshot-reporter": "0.0.5"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  },
+  "scripts": {
+    "test": "grunt"
+  },
+  "keywords": [
+	"Selenium",
+    "webdriverJS",
+	"Selenium Framework",
+    "uiautomation",
+    "protractor",
+	"protractor framework",
+    "tests",
+    "webdriver",
+    "angular",
+	"jasmine",
+	"grunt",
+    "uiTests"
+  ],
+  "author": "Gurvinder Dhillon",
+  "license": "MIT"
+}
